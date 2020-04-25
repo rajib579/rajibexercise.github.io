@@ -2,9 +2,9 @@ title: Sajib Sen
 description: Stuff that I come across and find interesting.
 author: Sajib Sen
 email: sajibsen.cs@gmail.com
-#phone: (650) 576-5403
+phone: (901) 265-9459
 github: https://github.com/Sen2k9
-about: I am a Software Engineer. I love working on backend and frontend technologies.
+about: I am a Software Engineer. I love solving problems and writing backend technologies.
 disqus_shortname: programming
 #google_analytics: UA-31048387-6
 #avatar_url: /static/img/me.jpg
@@ -18,12 +18,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
-    - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+#     - icon: fa-facebook
+#       link: "https://www.facebook.com/tjamadar"
+#     - icon: fa-twitter
+#       link: "https://twitter.com/tmjam3011"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/sajib-sen-cs/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
