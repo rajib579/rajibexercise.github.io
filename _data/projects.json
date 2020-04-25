@@ -4,47 +4,60 @@
         "image": "etruckingsoft.png",
         "url": "https://github.com/Sen2k9/Hackathon-Organizer-Ruby-on-Rails-",
         "date": "April 2018",
-        "tags": ["Ruby", "Rails", "HTML", "CSS", "JavaScript"]
+        "tags": ["Ruby", "Rails", "HTML", "CSS", "Bootstrap", "JavaScript"]
     },
     {
-        "name": "Easy Links",
+        "name": "Premium Fitness",
         "image": "easy-links.jpg",
-        "date": "May 2017",
-        "description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
+        "date": "June 2019",
+        "url": "https://github.com/Sen2k9/Sen-s-Fitness-A-Paid-Membership-Website",
+        "description": "A paid membership website that is able to share contents with it’s user and collect payments.",
         "tags": ["Extension", "Javascript"]
     },
     {
-        "name": "Live Band Club",
+        "name": "Cholo",
         "image": "livebandclub.png",
-        "url": "http://livebandclub.com",
-        "date": "June 2016",
-        "tags": ["HTML", "Javascript", "PHP"]
+        "url": "https://github.com/Sen2k9/Cholo-A-Simplified-Car-Rental-Application",
+        "date": "June 2019",
+        "description": "Cholo is a taxicab application that let you choose ride, add your vehicle to provide ride, and add yourself also as a driver from anywhere in the world.",
+        "tags": ["Python", "JavaScript", "HTML5", "CSS3", "Bootstrap", "SQL"]
     },
     {
-        "name": "Pavement Preservation Treatment Database",
+        "name": "Automate SDN Controller",
         "image": "pp_logo.png",
-        "date": "Oct 2015",
-        "url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-        "tags": ["PHP", "HTML"]
+        "date": "April 2018",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-13-7564-4_5",
+        "tags": ["Python", "MNet"]
     },
     {
-        "name": "Street Saver Certification Program",
+        "name": "Movie Recommender",
         "image": "streetsaver.png",
-        "date": "Oct 2015",
-        "url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-        "tags": ["PHP", "HTML", "CMS"]
+        "date": "April 2018",
+        "url": "https://github.com/Sen2k9/Machine_Learning_Projects/tree/master/Netflix_Movie%20Recommendation%20System",
+        "tags": ["Java", "Machine Learning"]
     },
     {
-        "name": "Tire Derived Aggregate",
+        "name": "Smart Micro-Grid",
         "image": "tda.png",
-        "date": "Oct 2016",
-        "url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-        "tags": ["PHP", "HTML", "CMS"]
-    }, {
-        "name": "JM Watts Chico",
+        "date": "Dec 2017",
+        "url": "https://aircconline.com/csit/abstract/v9n14/csit91401.html",
+        "tags": ["Java", "Machine Learning"]
+    },
+    {
+        "name": "Binary Classification using Hadoop",
         "image": "jmwattschico.png",
-        "url": "http://jmwattschico.com/",
-        "date": "May 2017",
-        "tags": ["HTML", "CSS", "Javascript"]
+        "url": "https://github.com/Sen2k9/Distributed-System/tree/master/Binary%20Classification%20using%20Hadoop",
+        "date": "April 2019",
+        "tags": ["Java", "Hadoop"]
+    },
+    {
+        "name": "Twitter Graph",
+        "image": "jmwattschico.png",
+        "url": "https://github.com/Sen2k9/Big-Data/blob/master/Twitter%20Social%20Graph%20Analysis.pdf",
+        "date": "April 2019",
+        "tags": [
+            "Python",
+            "PySpark"
+        ]
     }
 ]
