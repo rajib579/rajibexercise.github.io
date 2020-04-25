@@ -96,5 +96,26 @@
             "PySpark",
             "Django"
         ]
+    },
+    {
+        "name": "Cost Share Through Messenger Bot",
+        "image": "jmwattschico.png",
+        "url": "https://github.com/mirazsunny/Cost-Share-Through-Messenger-Bot",
+        "date": "April 2020",
+        "tags": [
+            "Python", "JavaScript", "Django", "React"
+        ]
+    },
+    {
+        "name": "Bangla Cart",
+        "image": "jmwattschico.png",
+        "url": "https://github.com/Sen2k9/Toy-Project-Bengal-Cart",
+        "date": "April 2020",
+        "tags": [
+            "Python",
+            "JavaScript",
+            "Django",
+            "React"
+        ]
     }
 ]
