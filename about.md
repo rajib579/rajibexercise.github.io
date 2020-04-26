@@ -12,12 +12,13 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 # Work Experiences
 <!-- body text -->
 
-<h4>Jan. 2020 - May 2020</h4>
+<h4>January 2020 - May 2020</h4>
 <h4>Research and Teaching Assistant<br>University of Memphis Memphis, TN</h4>
 <ul>
 <li> Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.</li>
-<li>Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.</li>
+<li> Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.</li>
 </ul>
+
 <h4>September 2019 - December 2019</h4>
 <h4>Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h4>
  <ul>
