@@ -15,7 +15,6 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
   <div class="about">
 
     <div class="container">
-        <br><br>
         <div class="row">
             <div class="col-md-12">
                 <div class="main-timeline7">
