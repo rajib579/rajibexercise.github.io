@@ -14,14 +14,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <div class="container">
   <div class="about">
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="main-timeline7">
-                    <div class="timeline">
-                        <div class="timeline-icon"><i class="fa fa-globe"></i></div>
                         <span class="year">September 2019 - December 2019</span>
-                        <div class="timeline-content">
                             <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
                             <p class="description">
                             <ul>
@@ -43,12 +36,10 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                               </li>
                             </ul>
                             </p>
-                        </div>
-                    </div>
-                    <div class="timeline">
-                        <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
+                       
+                   
+                   
                         <span class="year">September 2019 - December 2019</span>
-                        <div class="timeline-content">
                             <h5 class="title">System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
                             <p class="description">
                             <ul>
@@ -57,12 +48,10 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                               <li> Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.</li>
                             </ul>
                             </p>
-                        </div>
-                    </div>
-                    <div class="timeline">
-                        <div class="timeline-icon"><i class="fa fa-flask"></i></div>
+                      
+                  
                         <span class="year">August 2017- August 2019</span>
-                        <div class="timeline-content">
+                        
                             <h5 class="title">Research and Teaching Assistant<br>
                             The University of Memphis</h5>
                             <p class="description">
@@ -72,10 +61,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             <li> Data Structures and OOP: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.</li>
                             </ul>
                             </p>
-                        </div>
-                    </div>
-                  </div>
-                </div>
+                        
               </div>
               </div>
 
