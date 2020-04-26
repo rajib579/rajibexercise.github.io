@@ -26,9 +26,11 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
                             <p class="description">
                             <ul>
-                              <li> Writing regression test scripts using Python for ReTrans Transportation Management System (TMS) </li>
-                              <li> Implementing new functional modules for different clients’ needs. </li>
-                              <li> Enhancing Django based TMS code infrastructure by resolving issues of medium severity.</li>
+                              <li>Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
+                              </li>
+                              <li> Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. </li>
+                              <li> Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.</li>
+                              <li> Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.</li>
                             </ul>
                             </p>
                         </div>
@@ -40,9 +42,9 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             <h5 class="title">System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
                             <p class="description">
                             <ul>
-                              <li> Analyzing and monitoring big datasets for threat modeling using Splunk and User Behavior Analysis.</li>
-                              <li> Assisting and working concurrently with FedEx Information Security (InfoSec) team.</li>
-                              <li> Creating data monitoring dashboards and presenting them to FedEx InfoSec team.</li>
+                              <li> Data Analysis: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.</li>
+                              <li> Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.</li>
+                              <li> Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.</li>
                             </ul>
                             </p>
                         </div>
@@ -51,16 +53,13 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                         <div class="timeline-icon"><i class="fa fa-flask"></i></div>
                         <span class="year">August 2017- August 2019</span>
                         <div class="timeline-content">
-                            <h5 class="title">Graduate Research Assistant<br>
-                            Center For Information Assurance (CFIA),The University of Memphis</h5>
+                            <h5 class="title">Research and Teaching Assistant<br>
+                            The University of Memphis</h5>
                             <p class="description">
                             <ul>
-
-                              <li> Researched on algorithmic biases analysis on predictive modeling using publicly available dataset.</li>
-                              <li> Developed biometric authentication system measured by improved security using deep learning.</li>
-                              <li> Developed and improving image regeneration software using genetic algorithm.</li>
-                              <li> Led a team of seven peoples to complete cyber emergency training project funded by FEMA.</li>
-                              <li> Implemented and maintained my supervisor (Dr. Dipankar Dasgupta)’s personal website.</li>
+                            <li> Recover Image: Implemented model to recover image, resized to downscale, measured by the image quality.</li>
+                            <li> FEMA Projects: Increased 20% user participation by introducing puzzle-based/interactive learning in two FEMA funded Cyber Emergency Training Projects. Collaborated with Texas A&M Engineering Extension Service.</li>
+                            <li> Data Structures and OOP: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.</li>
                             </ul>
                             </p>
                         </div>
