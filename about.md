@@ -13,4 +13,4 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 <embed src="data/Resume_Sajib_Sen_Software_Engineer.pdf" type="application/pdf" width="100%" height="600px" />
 
-<iframe src="https://drive.google.com/open?id=18xHF4SRS3pEAnxkowZhucR2UFtVALNuD" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/file/d/1mPAJKPQHDj3MSIYu00pPpvx8cemEdqnq/view?usp=sharing" width="100%" height="900"></iframe>
