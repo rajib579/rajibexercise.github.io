@@ -14,7 +14,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 # Work Experiences
 <br>
-#### *Research and Teaching Assistant*                              January 2020 - April 2020
+#### *Research and Teaching Assistant* <p style="text-align: right;">January 2020 - April 2020</p>
 #### University of Memphis Memphis, TN
 
 - Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
