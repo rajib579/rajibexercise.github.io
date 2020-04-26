@@ -14,7 +14,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 
 <h5>September 2019 - December 2019</h5>
-<h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
+<h5>Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
  <ul>
  <li> 
  <p>
@@ -26,7 +26,6 @@ Testing: Improved codebase quality by implementing unit and regression tests for
 Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
 </p>
 </li>
-<li> 
 <p>
 Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
 </p>
@@ -42,23 +41,19 @@ Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decrea
                    
                    
 <h5>September 2019 - December 2019</h5>
-                            <h5 class="title">System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
-                            <p class="description">
-                            <ul>
-                              <li> Data Analysis: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.</li>
-                              <li> Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.</li>
-                              <li> Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.</li>
-                            </ul>
-                            </p>
+<h5>System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
+<ul>
+<li> Data Analysis: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.</li>
+<li> Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.</li>
+<li> Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.</li>
+</ul>
+
                       
 <h5>August 2017- August 2019</h5>
                         
- <h5 class="title">Research and Teaching Assistant<br>
-                            The University of Memphis</h5>
-                            <p class="description">
-                            <ul>
-                            <li> Recover Image: Implemented model to recover image, resized to downscale, measured by the image quality.</li>
-                            <li> FEMA Projects: Increased 20% user participation by introducing puzzle-based/interactive learning in two FEMA funded Cyber Emergency Training Projects. Collaborated with Texas A&M Engineering Extension Service.</li>
-                            <li> Data Structures and OOP: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.</li>
-                            </ul>
-                            </p>
+ <h5>Research and Teaching Assistant<br>The University of Memphis</h5>
+<ul>
+<li> Recover Image: Implemented model to recover image, resized to downscale, measured by the image quality.</li>
+<li> FEMA Projects: Increased 20% user participation by introducing puzzle-based/interactive learning in two FEMA funded Cyber Emergency Training Projects. Collaborated with Texas A&M Engineering Extension Service.</li>
+<li> Data Structures and OOP: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.</li>
+</ul>
