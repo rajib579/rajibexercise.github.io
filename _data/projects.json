@@ -23,18 +23,11 @@
         "tags": ["Python", "Django", "JavaScript", "HTML", "CSS", "Bootstrap", "SQL"]
     },
     {
-        "name": "Automate SDN Controller",
+        "name": "AI Layered SDN",
         "image": "SDN.jpg",
         "date": "April 2018",
         "url": "https://link.springer.com/chapter/10.1007/978-981-13-7564-4_5",
         "tags": ["Python", "MNet"]
-    },
-    {
-        "name": "Movie Recommender",
-        "image": "streetsaver.png",
-        "date": "April 2018",
-        "url": "https://github.com/Sen2k9/Machine_Learning_Projects/tree/master/Netflix_Movie%20Recommendation%20System",
-        "tags": ["Java", "Machine Learning"]
     },
     {
         "name": "Smart Micro-Grid",
@@ -43,34 +36,8 @@
         "url": "https://aircconline.com/csit/abstract/v9n14/csit91401.html",
         "tags": ["Java", "Machine Learning"]
     },
-    {
-        "name": "Binary Classification using Hadoop",
-        "image": "jmwattschico.png",
-        "url": "https://github.com/Sen2k9/Distributed-System/tree/master/Binary%20Classification%20using%20Hadoop",
-        "date": "April 2019",
-        "tags": ["Java", "Hadoop"]
-    },
-    {
-        "name": "Twitter Graph",
-        "image": "jmwattschico.png",
-        "url": "https://github.com/Sen2k9/Big-Data/blob/master/Twitter%20Social%20Graph%20Analysis.pdf",
-        "date": "April 2019",
-        "tags": [
-            "Python",
-            "PySpark"
-        ]
-    },
-    {
-        "name": "Web Crawler",
-        "image": "jmwattschico.png",
-        "url": "https://github.com/Sen2k9/Database-Proejcts/blob/master/geodata_script_jupyter.ipynb",
-        "date": "Feb 2019",
-        "tags": [
-            "Python",
-            "SQL",
-            "JSON"
-        ]
-    },
+
+
     {
         "name": "Fake Review Check",
         "image": "reviewer_verification_system.jpg",
@@ -96,26 +63,6 @@
             "PySpark",
             "Django"
         ]
-    },
-    {
-        "name": "Cost Share Through Messenger Bot",
-        "image": "jmwattschico.png",
-        "url": "https://github.com/mirazsunny/Cost-Share-Through-Messenger-Bot",
-        "date": "April 2020",
-        "tags": [
-            "Python", "JavaScript", "Django", "React"
-        ]
-    },
-    {
-        "name": "Bangla Cart",
-        "image": "jmwattschico.png",
-        "url": "https://github.com/Sen2k9/Toy-Project-Bengal-Cart",
-        "date": "April 2020",
-        "tags": [
-            "Python",
-            "JavaScript",
-            "Django",
-            "React"
-        ]
     }
+
 ]
