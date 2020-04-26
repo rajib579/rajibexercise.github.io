@@ -11,7 +11,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 # Work Experiences
 <!-- body text -->
-
+<br>
 <h4>January 2020 - April 2020</h4>
 <h4>Research and Teaching Assistant<br>University of Memphis Memphis, TN</h4>
 <ul>
@@ -19,6 +19,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <li> Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.</li>
 </ul>
 
+<br>
 <h4>September 2019 - December 2019</h4>
 <h4>Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h4>
  <ul>
@@ -36,7 +37,7 @@ Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decrea
 </li>
 </ul>
 
-                                    
+<br>                              
 <h4>September 2019 - December 2019</h4>
 <h4>System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h4>
 <ul>
@@ -44,7 +45,8 @@ Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decrea
 <li> Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.</li>
 <li> Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.</li>
 </ul>
-  
+ 
+<br>
 <h4>August 2017- August 2019</h4>
                         
 <h4>Research and Teaching Assistant<br>The University of Memphis</h4>
