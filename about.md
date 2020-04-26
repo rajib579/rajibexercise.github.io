@@ -9,13 +9,12 @@ I am an enthusiast Computer Scientist having a passion for Software Engineering,
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-
+# Work Experiences
 <!-- body text -->
 <div class="container">
   <div class="about">
 
     <div class="container">
-        <h2 align="center">Work Experiences</h2>
         <br><br>
         <div class="row">
             <div class="col-md-12">
