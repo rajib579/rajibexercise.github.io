@@ -22,6 +22,7 @@ Testing: Improved codebase quality by implementing unit and regression tests for
  <li> 
 Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
 </li>
+<li>
 Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
 </li>
 <li> 
