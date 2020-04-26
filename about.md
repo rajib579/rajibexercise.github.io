@@ -9,12 +9,6 @@ I am an enthusiast Computer Scientist having a passion for Software Engineering,
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-## Resume
-
-<embed src="data/Resume_Sajib_Sen_Software_Engineer.pdf" type="application/pdf" width="100%" height="600px" />
-
-<iframe src="https://docs.google.com/document/d/1TFpzK3Rl2atfmC-DeZhExzA5_nGoDG0RtLKy2o7Um1U/edit" width="100%" height="900"></iframe>
-
 
 <!-- body text -->
 <div class="container">
@@ -28,25 +22,29 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                 <div class="main-timeline7">
                     <div class="timeline">
                         <div class="timeline-icon"><i class="fa fa-globe"></i></div>
-                        <span class="year">September 2019-Present</span>
+                        <span class="year">September 2019 - December 2019</span>
                         <div class="timeline-content">
                             <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
                             <p class="description">
-                              • Writing regression test scripts using Python for ReTrans Transportation Management System (TMS)
-                              • Implementing new functional modules for different clients’ needs.
-                              • Enhancing Django based TMS code infrastructure by resolving issues of medium severity.<br>
+                            <ul>
+                              <li> Writing regression test scripts using Python for ReTrans Transportation Management System (TMS) </li>
+                              <li> Implementing new functional modules for different clients’ needs. </li>
+                              <li> Enhancing Django based TMS code infrastructure by resolving issues of medium severity.</li>
+                            </ul>
                             </p>
                         </div>
                     </div>
                     <div class="timeline">
                         <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
-                        <span class="year">September 2019-Present</span>
+                        <span class="year">September 2019 - December 2019</span>
                         <div class="timeline-content">
                             <h5 class="title">System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
                             <p class="description">
-                              • Analyzing and monitoring big datasets for threat modeling using Splunk and User Behavior Analysis.
-                              • Assisting and working concurrently with FedEx Information Security (InfoSec) team.
-                              • Creating data monitoring dashboards and presenting them to FedEx InfoSec team.
+                            <ul>
+                              <li> Analyzing and monitoring big datasets for threat modeling using Splunk and User Behavior Analysis.</li>
+                              <li> Assisting and working concurrently with FedEx Information Security (InfoSec) team.</li>
+                              <li> Creating data monitoring dashboards and presenting them to FedEx InfoSec team.</li>
+                            </ul>
                             </p>
                         </div>
                     </div>
@@ -57,12 +55,14 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             <h5 class="title">Graduate Research Assistant<br>
                             Center For Information Assurance (CFIA),The University of Memphis</h5>
                             <p class="description">
+                            <ul>
 
-                              • Researched on algorithmic biases analysis on predictive modeling using publicly available dataset.
-                              • Developed biometric authentication system measured by improved security using deep learning.
-                              • Developed and improving image regeneration software using genetic algorithm.
-                              • Led a team of seven peoples to complete cyber emergency training project funded by FEMA.
-                              • Implemented and maintained my supervisor (Dr. Dipankar Dasgupta)’s personal website.
+                              <li> Researched on algorithmic biases analysis on predictive modeling using publicly available dataset.</li>
+                              <li> Developed biometric authentication system measured by improved security using deep learning.</li>
+                              <li> Developed and improving image regeneration software using genetic algorithm.</li>
+                              <li> Led a team of seven peoples to complete cyber emergency training project funded by FEMA.</li>
+                              <li> Implemented and maintained my supervisor (Dr. Dipankar Dasgupta)’s personal website.</li>
+                            </ul>
                             </p>
                         </div>
                     </div>
