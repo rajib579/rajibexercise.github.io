@@ -14,9 +14,9 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 # Work Experiences
 
-### January 2020 - April 2020
-### Research and Teaching Assistant
-### University of Memphis Memphis, TN
+#### January 2020 - April 2020
+#### Research and Teaching Assistant
+#### University of Memphis Memphis, TN
 
 - Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
 - Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.
