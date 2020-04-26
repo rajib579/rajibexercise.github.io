@@ -24,7 +24,7 @@
     },
     {
         "name": "Automate SDN Controller",
-        "image": "pp_logo.png",
+        "image": "SDN.jpg",
         "date": "April 2018",
         "url": "https://link.springer.com/chapter/10.1007/978-981-13-7564-4_5",
         "tags": ["Python", "MNet"]
@@ -38,7 +38,7 @@
     },
     {
         "name": "Smart Micro-Grid",
-        "image": "tda.png",
+        "image": "ga.jpg",
         "date": "Dec 2017",
         "url": "https://aircconline.com/csit/abstract/v9n14/csit91401.html",
         "tags": ["Java", "Machine Learning"]
