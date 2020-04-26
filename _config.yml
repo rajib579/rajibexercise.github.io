@@ -39,7 +39,7 @@ urls:
   - text: Projects
     url: /projects/
   - text: Education
-    url: /education/
+    url: /educations/
     #text: Blogs
     #url: /blogs/
     #text: XML Feed
