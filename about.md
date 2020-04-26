@@ -11,8 +11,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 # Work Experiences
 <!-- body text -->
-<div class="container">
-  <div class="about">
+
 
                         <span class="year">September 2019 - December 2019</span>
                             <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
@@ -61,11 +60,3 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             <li> Data Structures and OOP: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.</li>
                             </ul>
                             </p>
-                        
-              </div>
-              </div>
-
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
