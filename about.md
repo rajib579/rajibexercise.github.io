@@ -14,29 +14,24 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 # Work Experiences
 <br>
-`Research and Teaching Assistant`; *January 2020 - April 2020*<br>
+`Research and Teaching Assistant` *January 2020 - April 2020*<br>
 [University of Memphis Memphis, TN](https://www.memphis.edu/)
 
 - Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
 - Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.
 
 <br>
-'September 2019 - December 2019'
-'Software Engineering Intern' <br> 'ReTrans. Inc.,Memphis,TN'
- <ul>
- <li> 
-Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
-</li>
- <li> 
-Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
-</li>
-<li>
-Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
-</li>
-<li> 
-Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.
-</li>
-</ul>
+'Software Engineering Intern' *September 2019 - December 2019*<br> 
+[ReTrans. Inc.,Memphis,TN](http://www.retrans.com/)
+
+- Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
+
+- Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
+
+- Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
+
+- Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.
+
 
 <br>                              
 'September 2019 - December 2019'
