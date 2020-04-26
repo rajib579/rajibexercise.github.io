@@ -16,6 +16,8 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <!-- body text -->
 'January 2020 - April 2020'
 'Research and Teaching Assistant'<br>'University of Memphis Memphis, TN'
+
+- Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
 <ul>
 <li> Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.</li>
 <li> Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.</li>
