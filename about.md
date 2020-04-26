@@ -25,13 +25,9 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 [ReTrans. Inc.,Memphis,TN](http://www.retrans.com/)
 
 - Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
-
 - Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
-
 - Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
-
 - Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.
-
 
 <br>                              
 `System Analyst Intern` *September 2019 - December 2019*<br>
@@ -40,7 +36,6 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 - Data Analysis: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.
 - Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.
 - Enhancement: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.
-
 
 <br>
 `Research and Teaching Assistant` *August 2017- August 2019*<br>
