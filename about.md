@@ -13,7 +13,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 <!-- body text -->
 
 
-                        <span class="year">September 2019 - December 2019</span>
+<span class="year">September 2019 - December 2019</span>
                             <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
                             <p class="description">
                             <ul>
@@ -38,7 +38,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                        
                    
                    
-                        <span class="year">September 2019 - December 2019</span>
+<span class="year">September 2019 - December 2019</span>
                             <h5 class="title">System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h5>
                             <p class="description">
                             <ul>
@@ -48,10 +48,9 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
                             </ul>
                             </p>
                       
-                  
-                        <span class="year">August 2017- August 2019</span>
+<span class="year">August 2017- August 2019</span>
                         
-                            <h5 class="title">Research and Teaching Assistant<br>
+ <h5 class="title">Research and Teaching Assistant<br>
                             The University of Memphis</h5>
                             <p class="description">
                             <ul>
