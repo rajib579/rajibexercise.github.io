@@ -73,7 +73,7 @@
     },
     {
         "name": "Fake Review Check",
-        "image": "jmwattschico.png",
+        "image": "reviewer_verification_system.jpg",
         "url": "https://github.com/Silicon-Orchard/fake_product_review_check",
         "date": "Feb 2020",
         "tags": [
@@ -88,7 +88,7 @@
 
     {
         "name": "Big Data File Converter",
-        "image": "jmwattschico.png",
+        "image": "json_to_avro.jpg",
         "url": "https://github.com/Silicon-Orchard/Parquet_Avro_Bigdata_file_converter",
         "date": "Feb 2020",
         "tags": [
