@@ -12,7 +12,7 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 # Work Experiences
 <!-- body text -->
 
-<h4>January 2020 - May 2020</h4>
+<h4>January 2020 - April 2020</h4>
 <h4>Research and Teaching Assistant<br>University of Memphis Memphis, TN</h4>
 <ul>
 <li> Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.</li>
