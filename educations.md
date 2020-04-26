@@ -10,8 +10,6 @@ permalink: /educations/
 <div class="container">
   <div class="about">
 
-<h3> Education </h3>
-
 <h4 style="color:  #0c5aad ;"> The University of Memphis </h4>
 <h4 style="color: #0c5aad ;"> Master of Science-MS, Computer Science </h4>
 <h5> Activities and Societies </h5>
@@ -30,10 +28,10 @@ permalink: /educations/
 <ul>
   <li>Member, KUET Electronics Club (Kuetronics).</li>
   <li>Member, KUET Robotics Club.</li>
-  <li>Volunteer of Inter-University Tech Fiesta.</li>
-  <li>Vice-President of Student Association of Chittagong, KUET, Bangladesh.</li>
-  <li>Worked as Percussionist for Protiddhoni(A musical Association), KUET, Bangladesh.</li>
-  <li>Member of Dream- A Voluntary Blood Donation Organization.</li>
+  <li>Volunteered in Inter-University Tech Fiesta.</li>
+  <li>Vice-President, Student Association of Chittagong, KUET, Bangladesh.</li>
+  <li>Percussionist, Protiddhoni(A musical Association), KUET, Bangladesh.</li>
+  <li>Member, Dream- A Voluntary Blood Donation Organization, KUET, Bangladesh.</li>
 </ul>
 </div>
 </div>

@@ -4,24 +4,27 @@ title: About
 permalink: /about/
 ---
 <p>
-I am an enthusiast Computer Scientist having a passion for Software Engineering, Machine Learning, Data Science, and Cyber Security. Proficient in Python and Linux environment. I consider myself as a full-stack software developer currently working in Python, Django and JavaScript. I like competitive programming and love to solve problems with efficient solutions.
+I am an enthusiast Computer Scientist having a passion for Software Engineering, Machine Learning and Data Science. Proficient in Python and Linux environment. I consider myself as a full-stack software developer currently focusing in Python, Django and JavaScript. I like competitive programming and love to solve problems with efficient solutions.
 </p>
 
+Learn more about my alma mater <a href="{{ site.url }}/educations/">here</a>.</small>
+
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
+
 
 # Work Experiences
 <!-- body text -->
 <br>
-<h4>January 2020 - April 2020</h4>
-<h4>Research and Teaching Assistant<br>University of Memphis Memphis, TN</h4>
+'January 2020 - April 2020'
+'Research and Teaching Assistant'<br>'University of Memphis Memphis, TN'
 <ul>
 <li> Fair AI: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.</li>
 <li> Evolutionary Computation: Collaborating with graduate students for their metaheuristic algorithm projects.</li>
 </ul>
 
 <br>
-<h4>September 2019 - December 2019</h4>
-<h4>Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h4>
+'September 2019 - December 2019'
+'Software Engineering Intern' <br> 'ReTrans. Inc.,Memphis,TN'
  <ul>
  <li> 
 Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
@@ -38,8 +41,8 @@ Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decrea
 </ul>
 
 <br>                              
-<h4>September 2019 - December 2019</h4>
-<h4>System Analyst Intern<br>UMRF Ventures Inc.-FedEx Information Security, Memphis, TN</h4>
+'September 2019 - December 2019'
+'System Analyst Intern'<br>'UMRF Ventures Inc.-FedEx Information Security, Memphis, TN'
 <ul>
 <li> Data Analysis: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.</li>
 <li> Data Evaluation: Improved 50% stored data health by comparing with Splunk’s Common Information Model.</li>
