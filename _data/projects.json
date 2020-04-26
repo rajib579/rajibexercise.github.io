@@ -12,7 +12,7 @@
         "date": "June 2019",
         "url": "https://github.com/Sen2k9/Sen-s-Fitness-A-Paid-Membership-Website",
         "description": "A paid membership website that is able to share contents with it’s user and collect payments.",
-        "tags": ["Python", "Django", "HTML", "CSS", "Bootstap", "Javascript"]
+        "tags": ["Python", "Django", "HTML", "CSS", "Bootstrap", "Javascript"]
     },
     {
         "name": "Rent-A-Car",
@@ -27,7 +27,7 @@
         "image": "SDN.jpg",
         "date": "April 2018",
         "url": "https://link.springer.com/chapter/10.1007/978-981-13-7564-4_5",
-        "tags": ["Python", "MNet"]
+        "tags": ["Python", "MNet", "Machine Learning"]
     },
     {
         "name": "Smart Micro-Grid",
@@ -48,7 +48,8 @@
             "Python",
             "NLTK",
             "Vader Sentiment Analysis",
-            "Django"
+            "Django",
+            "Machine Learning"
 
         ]
     },
