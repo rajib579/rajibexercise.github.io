@@ -14,27 +14,30 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 
 
 <h5>September 2019 - December 2019</h5>
-                            <h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
-                            <p class="description">
-                            <ul>
-                              <li> 
-                              <p>
-                              Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
-                              </p>
-                              </li>
-                              <li> 
-                              <p>
-                              Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
-                              </p>
-                              </li>
-                              <li> 
-                              <p>
-                              Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.</li>
-                              <li> Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.
-                              </p>
-                              </li>
-                            </ul>
-                            </p>
+<h5 class="title">Software Engineering Intern<br> ReTrans. Inc.,Memphis,TN</h5>
+ <ul>
+ <li> 
+ <p>
+Testing: Improved codebase quality by implementing unit and regression tests for management files in Django.
+</p>
+</li>
+ <li> 
+<p>
+Development: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
+</p>
+</li>
+<li> 
+<p>
+Enhancement: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
+</p>
+</li>
+<li> 
+<p>
+Code Migration: Migrated legacy code-base from Python2.7 to Python3.x and decreased 5x run-time.
+</p>
+</li>
+</ul>
+
                        
                    
                    
