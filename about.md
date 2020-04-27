@@ -7,7 +7,7 @@ permalink: /about/
 I am an enthusiast computer scientist with passion for Software Engineering, Machine Learning and Data Science. Proficient in Python and Linux environment. I consider myself as a full-stack software developer currently focusing in Python, Django and JavaScript. I like competitive programming and love to solve problems with efficient solutions.
 </p>
 
-Learn more about my alma mater <a href="{{ site.url }}/educations/">here</a>
+Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
