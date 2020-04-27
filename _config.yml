@@ -45,6 +45,8 @@ urls:
     url: /publications/
   - text: Blogs
     url: /blogs/
+  - text: News
+    url: /news/
 
   # - text: XML Feed
   #   url: /feed.xml
