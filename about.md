@@ -14,12 +14,6 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.io/resume/)
 <br>
 # Work Experiences
-<br>
-`Research and Teaching Assistant` *January 2020 - April 2020*<br>
-[University of Memphis Memphis, TN](https://www.memphis.edu/)
-
-- *Fair AI*: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
-- *Evolutionary Computation*: Collaborating with graduate students for their metaheuristic algorithm projects.
 
 <br>
 `Software Engineering Intern` *September 2019 - December 2019*<br>
@@ -39,9 +33,11 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 - *Enhancement*: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.
 
 <br>
-`Research and Teaching Assistant` *August 2017- August 2019*<br>
+`Research and Teaching Assistant` *August 2017- April 2020*<br>
 [The University of Memphis, Memphis, TN](https://www.memphis.edu/)
 
 - *Recover Image*: Implemented model to recover image, resized to downscale, measured by the image quality.
 - *FEMA Projects*: Increased 20% user participation by introducing puzzle-based/interactive learning in two FEMA funded Cyber Emergency Training Projects. Collaborated with Texas A&M Engineering Extension Service.
+- *Fair AI*: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
+- *Evolutionary Computation*: Collaborating with graduate students for their metaheuristic algorithm projects.
 - *Data Structures and OOP*: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.
