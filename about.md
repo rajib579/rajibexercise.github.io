@@ -11,6 +11,7 @@ Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
+Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.io/resume/)
 <br>
 # Work Experiences
 <br>
@@ -21,11 +22,11 @@ Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a
 - *Evolutionary Computation*: Collaborating with graduate students for their metaheuristic algorithm projects.
 
 <br>
-`Software Engineering Intern` *September 2019 - December 2019*<br> 
+`Software Engineering Intern` *September 2019 - December 2019*<br>
 [ReTrans. Inc.,Memphis,TN](http://www.retrans.com/)
 
 - *Testing*: Improved codebase quality by implementing unit and regression tests for management files in Django.
-- *Development*: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability. 
+- *Development*: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability.
 - *Enhancement*: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
 - *Code Migration*: Migrated legacy code from Python2.7 to Python3.x and decreased 5x run-time.
 
