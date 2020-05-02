@@ -19,7 +19,7 @@ layout: default
 
     <div class="projects">
       {% include project_tags.html %}
-      
+
       {% for i in site.data.projects %}
       <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
         <div class="project-inner">
@@ -62,5 +62,6 @@ layout: default
       </div>
       {% endfor %}
     </div>
+    For more detail please go to this <a href= "https://sen2k9.github.io/resume/">link</a>
   </div>
 </article>
