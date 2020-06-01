@@ -21,7 +21,7 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 
 - *Testing*: Improved codebase quality by implementing unit, integration and regression tests for files in Django.
 - *Enhancement*: Resolved issues and customer reported bugs to enhance code functionality and usability.
-- *Migration*: Migrated code-base from Python2 to Python3, documented, and reported in daily stand-up.
+- *Migration*: Migrated code-base from Python2 to Python3, documented, and reported in daily stand-up meeting.
 
 <br>                              
 `System Analyst Intern` *September 2019 - December 2019*<br>
