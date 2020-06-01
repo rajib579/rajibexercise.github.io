@@ -19,14 +19,13 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 `Software Engineering Intern` *September 2019 - December 2019*<br>
 [ReTrans. Inc.,Memphis,TN](http://www.retrans.com/)
 
-- *Testing*: Improved codebase quality by implementing unit and regression tests for management files in Django.
-- *Development*: Implemented webcrawler to store service delivery information in the database, evaluated by the magnitude of customers’ satisfaction, easily accessed information by Analyst, and code usability.
-- *Enhancement*: Resolved issues (e.g., storing 204 files in csv format) to enhance code functionality and usability.
-- *Code Migration*: Migrated legacy code from Python2.7 to Python3.x and decreased 5x run-time.
+- *Testing*: Improved codebase quality by implementing unit, integration and regression tests for files in Django.
+- *Enhancement*: Resolved issues and customer reported bugs to enhance code functionality and usability.
+- *Migration*: Migrated code-base from Python2 to Python3, documented, and reported in daily stand-up.
 
 <br>                              
 `System Analyst Intern` *September 2019 - December 2019*<br>
-[UMRF Ventures Inc.-FedEx Information Security, Memphis, TN](http://umrfventures.com/)
+[UMRF Ventures Inc., Memphis, TN](http://umrfventures.com/)
 
 - *Data Analysis*: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.
 - *Data Evaluation*: Improved 50% stored data health by comparing with Splunk’s Common Information Model.
