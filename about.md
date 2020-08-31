@@ -18,7 +18,7 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 <br>
 `Software Engineer` *June 2020 - Present*<br>
 <a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
-[ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN](http://www.retrans.com/)
+
 
 - Writing Python and Django solutions for EDI communications, reporting, invoicing, tracking, and new
 customer/carrier integration with the MercuryGate Transportation Management System (TMS).
@@ -29,7 +29,7 @@ in high-level business planning by performing data analysis on customer, carrier
 
 <br>
 `Software Engineering Intern` *September 2019 - December 2019*<br>
-[ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN](http://www.retrans.com/)
+<a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 - Improved test coverage for continuous integration of production code by implementing regression tests.
 - Migrated legacy codebase to Python3, documented, and reported issues in daily stand-up meeting.
@@ -37,7 +37,7 @@ in high-level business planning by performing data analysis on customer, carrier
 
 <br>                              
 `System Analyst Intern` *September 2019 - December 2019*<br>
-[UMRF Ventures Inc., Memphis, TN](http://umrfventures.com/)
+<a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
 - Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
 - Improved 50% stored data health provided by FedEx InfoSec team comparing with Splunk’s CIM.
@@ -45,7 +45,8 @@ in high-level business planning by performing data analysis on customer, carrier
 
 <br>
 `Research and Teaching Assistant` *August 2017- April 2020*<br>
-[The University of Memphis, Memphis, TN](https://www.memphis.edu/)
+<a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
+
 
 - Implemented model to recover image, resized to downscale, measured by the image quality.
 - Analyzed unwanted algorithmic biases for prediction and optimization using explainable AI.
