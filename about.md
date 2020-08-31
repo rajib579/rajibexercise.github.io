@@ -16,27 +16,38 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 # Work Experiences
 
 <br>
-`Software Engineering Intern` *September 2019 - December 2019*<br>
-[ReTrans. Inc.,Memphis,TN](http://www.retrans.com/)
+`Software Engineer` *June 2020 - Present*<br>
+[ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN](http://www.retrans.com/)
 
-- *Testing*: Improved codebase quality by implementing unit, integration and regression tests for files in Django.
-- *Enhancement*: Resolved issues and customer reported bugs to enhance code functionality and usability.
-- *Migration*: Migrated code-base from Python2 to Python3, documented, and reported in daily stand-up meeting.
+- Writing Python and Django solutions for EDI communications, reporting, invoicing, tracking, and new
+customer/carrier integration with the MercuryGate Transportation Management System (TMS).
+- Solving immediate software issues while maintaining large industry integration project using agile method.
+- Working on DevOps project to facilitate different docker instance of the codebase for local development.
+- Communicating with business analysts to understand software requirements and project planning; helping
+in high-level business planning by performing data analysis on customer, carrier, and agent’s raw data.
+
+<br>
+`Software Engineering Intern` *September 2019 - December 2019*<br>
+[ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN](http://www.retrans.com/)
+
+- Improved test coverage for continuous integration of production code by implementing regression tests.
+- Migrated legacy codebase to Python3, documented, and reported issues in daily stand-up meeting.
+- Solved immediate software issues of EDI communications, extracts, file-parsing, and invoicing.
 
 <br>                              
 `System Analyst Intern` *September 2019 - December 2019*<br>
 [UMRF Ventures Inc., Memphis, TN](http://umrfventures.com/)
 
-- *Data Analysis*: Analyzed big dataset provided by FedEx InfoSec team using Splunk; evaluated by presented findings through Splunk’s dashboards, visualizations, alerts, and reports.
-- *Data Evaluation*: Improved 50% stored data health by comparing with Splunk’s Common Information Model.
-- *Enhancement*: Looked for trends in data, monitored digital health of FedEx systems, confirmed data sources were reporting consistently and created knowledge articles with in-depth explanations of various data sources.
+- Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
+- Improved 50% stored data health provided by FedEx InfoSec team comparing with Splunk’s CIM.
+- Looked for trends in data and created knowledge articles with explanations of various data sources.
 
 <br>
 `Research and Teaching Assistant` *August 2017- April 2020*<br>
 [The University of Memphis, Memphis, TN](https://www.memphis.edu/)
 
-- *Recover Image*: Implemented model to recover image, resized to downscale, measured by the image quality.
-- *FEMA Projects*: Increased 20% user participation by introducing puzzle-based/interactive learning in two FEMA funded Cyber Emergency Training Projects. Collaborated with Texas A&M Engineering Extension Service.
-- *Fair AI*: Analysing unwanted algorithmic biases for prediction and optimization using adversarial learning.
-- *Evolutionary Computation*: Collaborating with graduate students for their metaheuristic algorithm projects.
-- *Data Structures and OOP*: Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.
+- Implemented model to recover image, resized to downscale, measured by the image quality.
+- Analyzed unwanted algorithmic biases for prediction and optimization using explainable AI.
+- Worked as lead developer and increased 20% participation in two FEMA Cyber Emergency Projects.
+- Collaborated with graduate students for their evolutionary computation projects.
+- Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.
