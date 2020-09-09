@@ -10,6 +10,10 @@ I am a computer science enthusiast with a passion for Software Engineering, Mach
 Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
+GitHub Profile : [github.com/Sen2k9](https://github.com/Sen2k9)
+LinkedIn Profile : [linkedin.com/in/sajib-sen-cs/](https://www.linkedin.com/in/sajib-sen-cs/)
+Google Scholar Profile : [Sajib Sen - Google Scholar](https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en)
+ResearchGate Profile : [researchgate.net/profile/Sajib_Sen2](https://www.researchgate.net/profile/Sajib_Sen2)
 
 Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.io/resume/)
 <br>
