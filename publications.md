@@ -3,7 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-[Google Scholar Profile](https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en)
+<a href="https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
+
 #### Peer-reviewed Conference Papers and Journals
 <br>
 - **Leveraging Machine Learning Approach to Setup Software-Defined Network(SDN) Controller Rules During DDoS Attack**. `Sen S.`, Gupta K.D., Manjurul Ahsan M. Proceedings of International Joint Conference on Computational Intelligence. Algorithms for Intelligent Systems. Springer. 2020.

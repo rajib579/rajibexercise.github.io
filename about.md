@@ -24,7 +24,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 # Work Experiences
 
 <br>
-`Software Engineer` *June 2020 - Present*<br>
+`Software Engineer`, Full-time Contract` *June 2020 - Present*<br>
 <a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 
@@ -36,7 +36,7 @@ customer/carrier integration with the MercuryGate Transportation Management Syst
 in high-level business planning by performing data analysis on customer, carrier, and agent’s raw data.
 
 <br>
-`Software Engineering Intern` *September 2019 - December 2019*<br>
+`Software Engineering`, Intern` *September 2019 - December 2019*<br>
 <a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 - Improved test coverage for continuous integration of production code by implementing regression tests.
@@ -44,7 +44,7 @@ in high-level business planning by performing data analysis on customer, carrier
 - Solved immediate software issues of EDI communications, extracts, file-parsing, and invoicing.
 
 <br>                              
-`System Analyst Intern` *September 2019 - December 2019*<br>
+`System Analyst`, Intern` *September 2019 - December 2019*<br>
 <a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
 - Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
