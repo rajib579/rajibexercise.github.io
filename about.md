@@ -11,15 +11,15 @@ Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-GitHub Profile : [github.com/Sen2k9](https://github.com/Sen2k9)
+GitHub Profile : <a href="https://github.com/Sen2k9" target="_blank">github.com/Sen2k9</a>
 
-LinkedIn Profile : [linkedin.com/in/sajib-sen-cs/](https://www.linkedin.com/in/sajib-sen-cs/)
+LinkedIn Profile : <a href="https://www.linkedin.com/in/sajib-sen-cs/" target="_blank">linkedin.com/in/sajib-sen-cs/</a>
 
-Google Scholar Profile : [Sajib Sen - Google Scholar](https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en)
+Google Scholar Profile : <a href="https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en" target="_blank">Sajib Sen - Google Scholar</a>
 
-ResearchGate Profile : [researchgate.net/profile/Sajib_Sen2](https://www.researchgate.net/profile/Sajib_Sen2)
+ResearchGate Profile : <a href="https://www.researchgate.net/profile/Sajib_Sen2" target="_blank">researchgate.net/profile/Sajib_Sen2</a>
 
-Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.io/resume/)
+Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" target="_blank">Sen2k9.github.io/resume</a>
 <br>
 # Work Experiences
 
