@@ -17,22 +17,28 @@ Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.
 
 <br>
 `Software Engineer` *June 2020 - Present*<br>
-<a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+<a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 
-- Writing Python and Django solutions for EDI communications, reporting, invoicing, tracking, and new
-customer/carrier integration with the MercuryGate Transportation Management System (TMS).
-- Solving immediate software issues while maintaining large industry integration project using agile method.
-- Working on DevOps project to facilitate different docker instance of the codebase for local development.
-- Communicating with business analysts to understand software requirements and project planning; helping
-in high-level business planning by performing data analysis on customer, carrier, and agent’s raw data.
+- Writing Python and Django solutions for Electronic Data Interchange (EDI) communications, reporting,
+invoicing, and tracking with the MercuryGate Transportation Management System (TMS).
+- Integrating rail carrier for multi-modal TMS project with deploying new feature into production.
+
+- Investigating and fixing production issues while maintaining the large scale industry integration service.
+
+- Automated manual processes for invoicing and increased business quality and speed for customers.
+
+- Developed docker image to handle codebase environment optimally for local development.
+
+- Collaborating daily with product managers, team lead and business analysts for planning and execution;
+performing data analysis on customer and carrier raw data to facilitate high-level business planning.
 
 <br>
 `Software Engineering Intern` *September 2019 - December 2019*<br>
-<a href="http://www.retrans.com/" target="_blank">ReTransportation, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+<a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
-- Improved test coverage for continuous integration of production code by implementing regression tests.
-- Migrated legacy codebase to Python3, documented, and reported issues in daily stand-up meeting.
+- Increased 10% test coverage for CI testing of the production ready code by writing regression test.
+- Migrated legacy codebase to Python3, documented, and reported issues in Agile team meeting.
 - Solved immediate software issues of EDI communications, extracts, file-parsing, and invoicing.
 
 <br>                              
@@ -48,8 +54,8 @@ in high-level business planning by performing data analysis on customer, carrier
 <a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
 
 
-- Implemented model to recover image, resized to downscale, measured by the image quality.
-- Analyzed unwanted algorithmic biases for prediction and optimization using explainable AI.
-- Worked as lead developer and increased 20% participation in two FEMA Cyber Emergency Projects.
+- Implemented deep learning model to differentiate between morphed and real face image using python.
+- Analyzed algorithmic biases for prediction and optimization of robotics paths using explainable AI.
+- Led development and increased 20\% participation in FEMA Projects using Python, Linux, and Javascript.
 - Collaborated with graduate students for their evolutionary computation projects.
 - Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.
