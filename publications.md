@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+<a href="https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
+
 #### Peer-reviewed Conference Papers and Journals
 <br>
 

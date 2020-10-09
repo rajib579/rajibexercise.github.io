@@ -11,12 +11,20 @@ Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-Look at my Bootstrapped Resume: [Sen2k9.github.io/resume](https://sen2k9.github.io/resume/)
+GitHub Profile : <a href="https://github.com/Sen2k9" target="_blank">github.com/Sen2k9</a>
+
+LinkedIn Profile : <a href="https://www.linkedin.com/in/sajib-sen-cs/" target="_blank">linkedin.com/in/sajib-sen-cs/</a>
+
+Google Scholar Profile : <a href="https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en" target="_blank">Sajib Sen - Google Scholar</a>
+
+ResearchGate Profile : <a href="https://www.researchgate.net/profile/Sajib_Sen2" target="_blank">researchgate.net/profile/Sajib_Sen2</a>
+
+Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" target="_blank">Sen2k9.github.io/resume</a>
 <br>
 # Work Experiences
 
 <br>
-`Software Engineer` *June 2020 - Present*<br>
+`Software Engineer`, `Full-time Contract` *June 2020 - Present*<br>
 <a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 
@@ -34,7 +42,7 @@ invoicing, and tracking with the MercuryGate Transportation Management System (T
 performing data analysis on customer and carrier raw data to facilitate high-level business planning.
 
 <br>
-`Software Engineering Intern` *September 2019 - December 2019*<br>
+`Software Engineering`, `Intern` *September 2019 - December 2019*<br>
 <a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 - Increased 10% test coverage for CI testing of the production ready code by writing regression test.
@@ -42,7 +50,7 @@ performing data analysis on customer and carrier raw data to facilitate high-lev
 - Solved immediate software issues of EDI communications, extracts, file-parsing, and invoicing.
 
 <br>                              
-`System Analyst Intern` *September 2019 - December 2019*<br>
+`System Analyst`, `Intern` *September 2019 - December 2019*<br>
 <a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
 - Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
