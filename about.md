@@ -36,7 +36,7 @@ invoicing, and tracking with the MercuryGate Transportation Management System (T
 
 - Automated manual processes for invoicing and increased business quality and speed for customers.
 
-- Developed docker image to handle codebase environment optimally for local development.
+- Developing docker image to handle different django instance and codebase environment, optimally, for local development.
 
 - Collaborating daily with product managers, team lead and business analysts for planning and execution;
 performing data analysis on customer and carrier raw data to facilitate high-level business planning.
