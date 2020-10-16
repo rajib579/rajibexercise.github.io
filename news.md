@@ -27,7 +27,7 @@ permalink: /news/
 <br>
 
 **[06-12-2020]** My industry-focused-independent-research gets 700 reads by the research community. [link](https://www.linkedin.com/posts/sajib-sen-cs_independentresearch-sdn-artificialintelligence-activity-6678718437642002433-i2AE)
-
+<br>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6678718436723458049" allowfullscreen="" title="Embedded post" width="504" height="717" frameborder="0"></iframe>
 
 <br>
