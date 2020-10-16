@@ -6,8 +6,7 @@ permalink: /news/
 
 **[10-15-2020]** As a part of the journey to work for the slogan AI for Good, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
 <br>
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="695" frameborder="0"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="415" frameborder="0"></iframe>
 <br>
 
 **[10-07-2020]** My Journal paper on "Machine Learning in CyberSecurity" has been published. [link](https://www.linkedin.com/posts/sajib-sen-cs_pdf-machine-learning-in-cybersecurity-activity-6718279024952537088-RQBn)
