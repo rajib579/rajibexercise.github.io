@@ -3,18 +3,16 @@ layout: page
 title: News
 permalink: /news/
 ---
+
 **[10-15-2020]** As a part of the journey to work for the slogan AI for Good, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
 <br>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="679" frameborder="0"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="695" frameborder="0"></iframe>
 <br>
 
 **[10-07-2020]** My Journal paper on "Machine Learning in CyberSecurity" has been published. [link](https://www.linkedin.com/posts/sajib-sen-cs_pdf-machine-learning-in-cybersecurity-activity-6718279024952537088-RQBn)
 <br>
-
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6718279024050753536" allowfullscreen="" title="Embedded post" width="504" height="777" frameborder="0"></iframe>
-
 <br>
 
 **[07-24-2020]** Our response in the journey to fight this pandemic. [link](https://www.linkedin.com/posts/sajib-sen-cs_study-of-different-deep-learning-approach-activity-6693655629992603648-l1hh)
