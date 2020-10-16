@@ -3,6 +3,32 @@ layout: page
 title: News
 permalink: /news/
 ---
+**[10-15-2020]** As a part of the journey to work for the slogan **AI for Good**, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="679" frameborder="0"></iframe>
+
+<br>
+
+**[10-07-2020]** My Journal paper on "Machine Learning in CyberSecurity" has been published. [link](https://www.linkedin.com/posts/sajib-sen-cs_pdf-machine-learning-in-cybersecurity-activity-6718279024952537088-RQBn)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6718279024050753536" allowfullscreen="" title="Embedded post" width="504" height="777" frameborder="0"></iframe>
+
+<br>
+
+**[07-24-2020]** Our response in the journey to fight this pandemic. [link](https://www.linkedin.com/posts/sajib-sen-cs_study-of-different-deep-learning-approach-activity-6693655629992603648-l1hh)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6693655629195694080" allowfullscreen="" title="Embedded post" width="504" height="453" frameborder="0"></iframe>
+
+<br>
+
+**[06-22-2020]** I have joined as Full-time Software Engineer Contractor at ReTrans, Inc., A kuehne-Nagel Company.
+<br>
+
+**[06-12-2020]** My industry-focused-independent-research gets 700 reads by the research community. [link](https://www.linkedin.com/posts/sajib-sen-cs_independentresearch-sdn-artificialintelligence-activity-6678718437642002433-i2AE)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6678718436723458049" allowfullscreen="" title="Embedded post" width="504" height="717" frameborder="0"></iframe>
+
+<br>
 
 **[04-24-2020]** I have been featured in the Computer Science Newsletter of University of Memphis. [link](https://www.linkedin.com/feed/update/urn:li:activity:6659816117806120960/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6659816116560412672%2C6660344281246642176))
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6659816116560412672" allowfullscreen="" title="Embedded post" width="504" height="480" frameborder="0"></iframe>
