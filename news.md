@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-**[10-15-2020]** As a part of the journey to work for the slogan *AI for Good*, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
+**[10-15-2020]** As a part of the journey to work for the slogan AI for Good, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="679" frameborder="0"></iframe>
 
@@ -22,6 +22,7 @@ permalink: /news/
 <br>
 
 **[06-22-2020]** I have joined as Full-time Software Engineer Contractor at ReTrans, Inc., A kuehne-Nagel Company.
+<br>
 <br>
 
 **[06-12-2020]** My industry-focused-independent-research gets 700 reads by the research community. [link](https://www.linkedin.com/posts/sajib-sen-cs_independentresearch-sdn-artificialintelligence-activity-6678718437642002433-i2AE)
