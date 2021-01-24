@@ -24,30 +24,25 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 # Work Experiences
 
 <br>
-`Software Engineer`, `Full-time Contract` *June 2020 - Present*<br>
-<a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+`Software Engineer`, `Full-time` *June 2020 - Present*<br>
+<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
 
-- Writing Python and Django solutions for Electronic Data Interchange (EDI) communications, reporting,
-invoicing, and tracking with the MercuryGate Transportation Management System (TMS).
-- Integrating rail carrier for multi-modal TMS project with deploying new feature into production.
-
-- Investigating and fixing production issues while maintaining the large scale industry integration service.
-
-- Automated manual processes for invoicing and increased business quality and speed for customers.
-
-- Developing docker image to handle different django instance and codebase environment, optimally, for local development.
-
-- Collaborating daily with product managers, team lead and business analysts for planning and execution;
-performing data analysis on customer and carrier raw data to facilitate high-level business planning.
+- Writing solutions for Electronic Data Interchange(EDI)communications and tracking with MercuryGate TMS.
+- Enhancing existing third-party truck-carrier logistics to accommodate rail-carrier for multi-modal project.
+- Redesigning backend for Kuehne & Nagel’s pharmaceutical customers transferring from Oracle TMS.
+- Troubleshooting and resolving customer-reported or operation-team requested business-critical IT issues.
+- Collaborating daily with stakeholders, team-lead, and business analysts for planning and designing.
+- Improved invoicing speed by two weeks by segmenting and automating invoices over customer’s sales region.
+- Leveraging knowledge in Web Development, Python, Django, Git, Linux, Database, Kibana, Redis, XML.
 
 <br>
 `Software Engineering`, `Intern` *September 2019 - December 2019*<br>
-<a href="http://www.retrans.com/" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
 
-- Increased 10% test coverage for CI testing of the production ready code by writing regression test.
-- Migrated legacy codebase to Python3, documented, and reported issues in Agile team meeting.
-- Solved immediate software issues of EDI communications, extracts, file-parsing, and invoicing.
+- Increased 10% test coverage by writing regression tests and migrated company’s legacy codebase to Python3.
+- Code refactored and solved immediate issues of EDI communications, extracts, file-parsing, and invoicing.
+- Leveraged knowledge in Web Development, unit test, Python, Django, Git, Linux, Database.
 
 <br>                              
 `System Analyst`, `Intern` *September 2019 - December 2019*<br>
