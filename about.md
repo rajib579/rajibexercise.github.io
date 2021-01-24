@@ -28,11 +28,11 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
 
-- Writing solutions for Electronic Data Interchange(EDI)communications and tracking with MercuryGate TMS.
-- Enhancing existing third-party truck-carrier logistics to accommodate rail-carrier for multi-modal project.
-- Redesigning backend for Kuehne & Nagel’s pharmaceutical customers transferring from Oracle TMS.
+- Writing solutions for Electronic Data Interchange(EDI) service, communications and tracking with MercuryGate TMS.
+- Enhancing existing third-party logistics service to accommodate air, sea and rail carriers.
+- Redesigning backend for Kuehne & Nagel’s pharmaceutical customers to meet very specific requirements.
 - Troubleshooting and resolving customer-reported or operation-team requested business-critical IT issues.
-- Collaborating daily with stakeholders, team-lead, and business analysts for planning and designing.
+- Collaborating daily with stakeholders, team-lead, and business analysts for planning, designing and reporting.
 - Improved invoicing speed by two weeks by segmenting and automating invoices over customer’s sales region.
 - Leveraging knowledge in Web Development, Python, Django, Git, Linux, Database, Kibana, Redis, XML.
 
