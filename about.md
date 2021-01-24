@@ -25,7 +25,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 
 <br>
 `Software Engineer`, `Full-time` *June 2020 - Present*<br>
-<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
 
 - Writing solutions for Electronic Data Interchange(EDI)communications and tracking with MercuryGate TMS.
@@ -38,7 +38,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 
 <br>
 `Software Engineering`, `Intern` *September 2019 - December 2019*<br>
-<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company,Memphis,TN</a>
+<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
 - Increased 10% test coverage by writing regression tests and migrated company’s legacy codebase to Python3.
 - Code refactored and solved immediate issues of EDI communications, extracts, file-parsing, and invoicing.
@@ -48,17 +48,33 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 `System Analyst`, `Intern` *September 2019 - December 2019*<br>
 <a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
+
 - Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
-- Improved 50% stored data health provided by FedEx InfoSec team comparing with Splunk’s CIM.
-- Looked for trends in data and created knowledge articles with explanations of various data sources.
+- Improved data health of FedEx InfoSec by 50% comparing with Splunk’s CIM, and reporting vulnerability.
+- Leveraged knowledge in System log analysis, Search and Discovery, Information Security, Splunk.
 
 <br>
-`Research and Teaching Assistant` *August 2017- April 2020*<br>
+`Research Assistant` *August 2017- April 2020*<br>
 <a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
 
+- Surveyed and analyzed unwanted algorithmic biases for prediction and optimization using explainable AI.
+- Increased user participation in two FEMA Cyber Emergency Projects by 20% by working as lead developer.
+- Leveraged knowledge in Research and Development, Information Security, Artificial Intelligence.
 
-- Implemented deep learning model to differentiate between morphed and real face image using python.
-- Analyzed algorithmic biases for prediction and optimization of robotics paths using explainable AI.
-- Led development and increased 20\% participation in FEMA Projects using Python, Linux, and Javascript.
-- Collaborated with graduate students for their evolutionary computation projects.
-- Worked as Scrum Master to mentor four students’ projects. Ran lab work, involved in creating assignments, graded papers, and supervised two other TAs.
+<br>
+`Teaching Assistant` *Spring 2018*<br>
+<a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
+
+- Worked as a Teaching Assistant in Data Structure(COMP 2150) and Ethics and Professional Development (COMP 1950) each containing about 30 students, also mentored students for their class projects.
+- Conducted lab work, graded papers, and provided tutoring services for Data Structures and Algorithms.
+- Leveraged knowledge in Information Technology courses, courses and curricula development, tutoring.
+
+<br>
+`Lecturer` *February 2015 - July 2017*<br>
+<a href="https://www.primeuniversity.edu.bd" target="_blank">Prime University, Bangladesh</a>
+
+- Designed, lectured, conducted exams, and graded several electrical and computer science courses.
+- Classes taught include Object-Oriented Programming, Scientific Computing using MATLAB, Fundamentals
+of Programming Language, Power Electronics and Embedded System with Raspberry Pi.
+- Leveraged knowledge in lecturing classes, conducting labs, consulting students, academic advisor role.
+
