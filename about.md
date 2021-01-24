@@ -24,7 +24,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 # Work Experiences
 
 <br>
-`Software Engineer`, `Full-time` *June 2020 - Present*<br>
+`Software Engineer` *June 2020 - Present*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
 
